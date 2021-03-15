@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Francesco</h1>
+<h1 align="center">I'm Francesco</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=framann&label=Profile%20views&color=0e75b6&style=flat" alt="framann" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=framann&label=Profile%20views&color=red&style=flat" alt="framann" /> </p>
 
 - 🌱 I’m always learning **Machine Learning**
 
