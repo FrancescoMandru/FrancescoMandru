@@ -1,35 +1,27 @@
-<h1 align="center">I'm Francesco</h1>
-<h3 align="center">Machine Learning Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=framann&label=Profile%20views&color=red&style=flat" alt="framann" /> </p>
-
-<a href="https://github.com/framann/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/framann/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-- 🌱 I’m always learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Machine Learning projects**
-
-- 📈 Second Business **Forex trading**
-
-- ⚡ Fun fact **There is no thing as free lunch**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francescomandru/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/francescomandru/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://ai.stackexchange.com/users/32694/framan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://ai.stackexchange.com/users/32694/framan" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/francescomandru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/francescomandru" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" width="50" height="50" src="./images/me.png"><h1 style="font-family:verdana;" align="center">I'm Francesco</h1>
+<h3 style="font-family:verdana;" align="center">Machine Learning Engineer</h3>
+<h4 style="font-family:verdana;" align="center">Remember, there is no such thing as free lunch.</h4>
 
 
-![FraMann's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoMandru&show_icons=true&theme=radical)
+
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francescomandru/)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://twitter.com/ptkdev)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://www.instagram.com/francescomandru/)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/11165944658?si=Fq2bWQ_STCejGc3_-iKgPg)
+
+
+
+## About me, in a nutshell: 
+<img align="right" width="250" height="250" src="./images/coding.png"></a>
+I'm a Computer Scientist, I'm specialized in Machine Learning and Computer Vision. Here you can find some of my personal projects that I have done during my University career and some info to reach me. My second business is Forex trading and I'm studyng to become FTMO funded. Currently I'm working in the autonomous driving scenario with the University of Padova <a href="http://signet.dei.unipd.it/">SIGNET</a> research team. </a> 
+
+
+
+
+
+
+![FraMann's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancescoMandru&show_icons=true&theme=dracula)
 
 
 
