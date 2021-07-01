@@ -14,7 +14,7 @@
 
 ## About me, in a nutshell: 
 <img align="right" width="250" height="250" src="./images/coding.png"></a>
-I'm a Computer Scientist, I'm specialized in Machine Learning and Computer Vision. Here you can find some of my personal projects that I have done during my University career and some info to reach me. My second business is Forex trading and I'm studying to become FTMO funded. Currently I'm working in the autonomous driving scenario with the University of Padova <a href="http://signet.dei.unipd.it/">SIGNET</a> research team. </a> 
+I'm a Computer Scientist, I'm specialized in Machine Learning and Computer Vision. Here you can find some of my personal projects that I have done during my University career and some info to reach me. My second business is Forex trading. Currently I'm working in the autonomous driving scenario with the University of Padova <a href="http://signet.dei.unipd.it/">SIGNET</a> research team. </a> 
 
 
 
